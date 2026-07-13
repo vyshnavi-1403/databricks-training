@@ -201,6 +201,4 @@ SQL-Student-Database/
 └── README.md
 ```
 
-## Author
 
-**Vyshnavi Dharmaraju**
