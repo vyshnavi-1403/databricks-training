@@ -195,8 +195,4 @@ Phase4-Business-Pipeline/
 
 ---
 
-## Author
-
-**Vyshnavi**
-
 PySpark | Data Engineering | Business Analytics | Apache Spark
