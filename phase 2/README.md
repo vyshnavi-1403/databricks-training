@@ -123,7 +123,7 @@ By completing this phase, I learned how to:
 Phase 2 helped me build a strong foundation in **SQL** and **PySpark** by implementing common business queries using both approaches. It improved my understanding of data transformations, joins, aggregations, and SQL-to-PySpark conversion, preparing me for more advanced ETL and data engineering tasks.
 
 ---
-
+Vyshnavi
 
 
 
